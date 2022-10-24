@@ -1,0 +1,6 @@
+*.config
+*.suo
+*.cspoj
+*.sln
+*.txt
+.gitignore.txt
