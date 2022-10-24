@@ -4,3 +4,16 @@
 *.sln
 *.txt
 .gitignore.txt
+*.v2
+*.vsidx
+*.lock
+*.1
+*.csproj
+Northwind/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Northwind/obj/Debug/net6.0/Northwind.AssemblyInfo.cs
+*.cache
+*.json
+*.targets
+*.props
+*.editorconfig
+Northwind/obj/Debug/net6.0/Northwind.GlobalUsings.g.cs
